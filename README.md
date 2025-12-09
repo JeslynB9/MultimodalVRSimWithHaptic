@@ -16,7 +16,7 @@ To revolutionise medical education by providing an immersive, realistic, and int
 - Provide a foundation for future extensions to cover different medical specialisations and procedures.
 
 ## Stakeholders
-**Unversity of Sydney Faculty of Medicine and Health Media Lab:** The client team providing anatomical and procedural expertise, ensuring educational and technical accuracy.
+**University of Sydney Faculty of Medicine and Health Media Lab:** The client team providing anatomical and procedural expertise, ensuring educational and technical accuracy.
 
 **Medical students and healthcare professionals:** The primary users who gain hands-on experience and improved confidence through realistic simulations.
 
