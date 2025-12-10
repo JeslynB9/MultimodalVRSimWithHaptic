@@ -37,6 +37,8 @@ To revolutionise medical education by providing an immersive, realistic, and int
 - Meta Quest 3 VR headset for immersive visualisation
 
 ## Demonstration
-To view the extent of the work accomplished, please watch our [demo video here](https://drive.google.com/file/d/1BDKi3O42bvGfwRulEhtot1ILpHEaB6s6/view?usp=drive_link).
+To view the extent of the work accomplished, please watch our demonstration video:
+
+[![thumbnail](https://github.com/user-attachments/assets/06a5c1ce-aff9-41f3-82a2-e7fe9a7889f5)](https://drive.google.com/file/d/1BDKi3O42bvGfwRulEhtot1ILpHEaB6s6/view?usp=drive_link)
 
 
